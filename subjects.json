@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Física",
+        "url": "fisi"
+    },
+    {
+        "name": "Matemáticas",
+        "url": "mate"
+    },
+    {
+        "name": "Qímica",
+        "url": "quim"
+    },
+    {
+        "name": "Historia",
+        "url": "hist"
+    },
+    {
+        "name": "Filosofía",
+        "url": "hfil"
+    },
+    {
+        "name": "Inglés",
+        "url": "angl"
+    },
+    {
+        "name": "Castellano",
+        "url": "lles"
+    },
+    {
+        "name": "Catalán",
+        "url": "llca"
+    },
+    {
+        "name": "Historia del arte",
+        "url": "hart"
+    },
+    {
+        "name": "Ciencias de la tierra",
+        "url": "cite"
+    },
+    {
+        "name": "Diseño",
+        "url": "diss"
+    },
+    {
+        "name": "Fundamentos de las artes",
+        "url": "fart"
+    },
+    {
+        "name": "Latín",
+        "url": "llat"
+    },
+    {
+        "name": "Geografía",
+        "url": "geog"
+    },
+    {
+        "name": "Biología",
+        "url": "biol"
+    },
+    {
+        "name": "Empresa",
+        "url": "ecem"
+    },
+    {
+        "name": "Literatura catalana",
+        "url": "lica"
+    },
+    {
+        "name": "Tecnología",
+        "url": "tecn"
+    },
+    {
+        "name": "Dibujo artístico",
+        "url": "diar"
+    },
+    {
+        "name": "Matemáticas ciencias sociales",
+        "url": "macs"
+    },
+    {
+        "name": "Dibujo técnico",
+        "url": "dibu"
+    },
+    {
+        "name": "Cultura audiovisual",
+        "url": "cuau"
+    }
+]
